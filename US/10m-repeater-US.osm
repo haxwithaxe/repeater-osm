@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-7605' visible='true' lat='42.433342' lon='-71.608612'>
+    <tag k='comment' v='offset=-0.1MHz' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.62' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='131.8' />
+    <tag k='location' v='Bolton' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='W1OJ' />
+    <tag k='ref' v='W1OJ' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7604' visible='true' lat='41.37215' lon='-73.73439'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.66' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='74.4' />
+    <tag k='location' v='Mahopac' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='K2HR' />
+    <tag k='ref' v='K2HR' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7603' visible='true' lat='41.090481000000004' lon='-73.918381'>
+    <tag k='comment' v='offset=-0.1MHz' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.64' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='114.8' />
+    <tag k='location' v='Nyack' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='N2ACF' />
+    <tag k='ref' v='N2ACF' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7602' visible='true' lat='40.650799' lon='-73.949539'>
+    <tag k='comment' v='offset=-0.1MHz' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.68' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='136.5' />
+    <tag k='location' v='Brooklyn' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='N2JFS' />
+    <tag k='ref' v='N2JFS' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7601' visible='true' lat='40.71463' lon='-74.005806'>
+    <tag k='comment' v='offset=-0.1MHz' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.66' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='88.5' />
+    <tag k='location' v='Manhattan' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='KC2ENI' />
+    <tag k='ref' v='KC2ENI' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7600' visible='true' lat='41.57637' lon='-74.485939'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.62' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='146.2' />
+    <tag k='location' v='Wurtsburo' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='KQ2H' />
+    <tag k='ref' v='KQ2H' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7599' visible='true' lat='42.17086' lon='-75.129051'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.66' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='107.2' />
+    <tag k='location' v='Walton' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='K2NK' />
+    <tag k='ref' v='K2NK' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7598' visible='true' lat='39.849689' lon='-75.35585'>
+    <tag k='comment' v='offset=-0.1MHz' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.62' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='162.2' />
+    <tag k='location' v='Chester' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='W3PS' />
+    <tag k='ref' v='W3PS' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7597' visible='true' lat='39.962959' lon='-76.72908'>
+    <tag k='comment' v='offset=-0.1MHz' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.68' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='123' />
+    <tag k='location' v='York' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='W3HZU' />
+    <tag k='ref' v='W3HZU' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7596' visible='true' lat='34.785671' lon='-76.858994'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.66' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Newport' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='K4GRW' />
+    <tag k='ref' v='K4GRW' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7595' visible='true' lat='43.154438' lon='-77.615967'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.68' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='123' />
+    <tag k='location' v='Rochester' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='N2HJD' />
+    <tag k='ref' v='N2HJD' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7594' visible='true' lat='38.968250000000005' lon='-77.735077'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.68' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='146.2' />
+    <tag k='location' v='Middleburg' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='KA4DCS' />
+    <tag k='ref' v='KA4DCS' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7593' visible='true' lat='42.91188799999999' lon='-77.746086'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.62' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Avon' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='WR2AHL' />
+    <tag k='ref' v='WR2AHL' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7592' visible='true' lat='35.938210000000005' lon='-77.79154999999999'>
+    <tag k='comment' v='offset=29.66MHz' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='Mount' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Rocky' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='N4JEH' />
+    <tag k='ref' v='N4JEH' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7591' visible='true' lat='35.824298999999996' lon='-78.314629'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.62' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Zebulon' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='WB4IUY' />
+    <tag k='ref' v='WB4IUY' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7590' visible='true' lat='42.629089' lon='-78.73786900000002'>
+    <tag k='comment' v='offset=-0.1MHz' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.68' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='107.2' />
+    <tag k='location' v='Boston' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='WB2JQK' />
+    <tag k='ref' v='WB2JQK' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7589' visible='true' lat='40.62159' lon='-79.153381'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.66' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Indiana' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='W3BMD' />
+    <tag k='ref' v='W3BMD' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7588' visible='true' lat='42.196991' lon='-79.423637'>
+    <tag k='comment' v='offset=29.62MHz' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='Springs' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Maple' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='N2ISQ' />
+    <tag k='ref' v='N2ISQ' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7587' visible='true' lat='40.58151999999999' lon='-79.566254'>
+    <tag k='comment' v='offset=419.62MHz' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.68' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='131.8' />
+    <tag k='location' v='Apollo' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='N1RS' />
+    <tag k='ref' v='N1RS' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7586' visible='true' lat='40.58151999999999' lon='-79.566254'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.68' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='141.3' />
+    <tag k='location' v='Apollo' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='N1RS' />
+    <tag k='ref' v='N1RS' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7585' visible='true' lat='40.324039000000006' lon='-79.70143099999999'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.62' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Irwin' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='K3CFY' />
+    <tag k='ref' v='K3CFY' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7584' visible='true' lat='26.71431' lon='-80.053452'>
+    <tag k='comment' v='offset=none' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='Palm' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='West' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='WA4FM' />
+    <tag k='ref' v='WA4FM' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7583' visible='true' lat='35.88179000000001' lon='-80.084167'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.68' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='88.5' />
+    <tag k='location' v='Thomasville' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='WW4DC' />
+    <tag k='ref' v='WW4DC' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7582' visible='true' lat='41.64115100000001' lon='-80.15152'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.64' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Meadeville' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='W3MIE' />
+    <tag k='ref' v='W3MIE' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7581' visible='true' lat='25.774111000000005' lon='-80.19356500000002'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.68' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='103.5' />
+    <tag k='location' v='Miami' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='KA4ZAY' />
+    <tag k='ref' v='KA4ZAY' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7580' visible='true' lat='25.774111000000005' lon='-80.19356500000002'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.66' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Miami' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='WB4TWQ' />
+    <tag k='ref' v='WB4TWQ' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7579' visible='true' lat='25.774111000000005' lon='-80.19356500000002'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.64' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Miami' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='W4HN' />
+    <tag k='ref' v='W4HN' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7578' visible='true' lat='25.774111000000005' lon='-80.19356500000002'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.62' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Miami' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='KM4ZT' />
+    <tag k='ref' v='KM4ZT' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7577' visible='true' lat='33.920399' lon='-80.34171300000001'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.66' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Sumter' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='W4GL' />
+    <tag k='ref' v='W4GL' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7576' visible='true' lat='38.224312' lon='-80.532936'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.66' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='100' />
+    <tag k='location' v='Richwood' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='WA8YWO' />
+    <tag k='ref' v='WA8YWO' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7575' visible='true' lat='28.386209000000004' lon='-80.74221'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.64' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Cocoa' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='N4LEM' />
+    <tag k='ref' v='N4LEM' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7574' visible='true' lat='36.14585100000001' lon='-81.16130799999999'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.62' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Wilkesboro' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='KC4XE' />
+    <tag k='ref' v='KC4XE' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7573' visible='true' lat='37.777931' lon='-81.18810299999998'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.68' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='88.5' />
+    <tag k='location' v='Beckley' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='KE4QOX' />
+    <tag k='ref' v='KE4QOX' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7572' visible='true' lat='37.777931' lon='-81.18810299999998'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.62' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Beckley' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='KA8OTX' />
+    <tag k='ref' v='KA8OTX' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7571' visible='true' lat='40.79678' lon='-81.52198'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.64' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='103.5' />
+    <tag k='location' v='Massillon' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='W8NP' />
+    <tag k='ref' v='W8NP' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7570' visible='true' lat='38.35049099999999' lon='-81.63152299999999'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.64' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='203.5' />
+    <tag k='location' v='Charleston' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='WB8CQV' />
+    <tag k='ref' v='WB8CQV' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7569' visible='true' lat='30.332238999999994' lon='-81.65619700000002'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.64' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='communications_transponder:tone' v='103.5' />
+    <tag k='location' v='Jacksonville' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='NS4R' />
+    <tag k='ref' v='NS4R' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7568' visible='true' lat='28.599969999999995' lon='-81.67569'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.62' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Montverde' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='K2SSE' />
+    <tag k='ref' v='K2SSE' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7567' visible='true' lat='30.690949999999994' lon='-81.91774'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.62' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Hilliard' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='W4COJ' />
+    <tag k='ref' v='W4COJ' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7566' visible='true' lat='29.187021' lon='-82.13951900000002'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.68' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Ocala' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='KA2MBE' />
+    <tag k='ref' v='KA2MBE' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7565' visible='true' lat='27.770969000000004' lon='-82.679527'>
+    <tag k='comment' v='offset=29.68MHz' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='Petersburg' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='St' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='K4LK' />
+    <tag k='ref' v='K4LK' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+  <node id='-7564' visible='true' lat='36.163219000000005' lon='-82.83087200000001'>
+    <tag k='comment' v='offset=-' />
+    <tag k='communications_transponder:access' v='Public' />
+    <tag k='communications_transponder:frequency' v='29.64' />
+    <tag k='communications_transponder:modulation' v='NFM' />
+    <tag k='communications_transponder:service' v='AMATEUR' />
+    <tag k='location' v='Greeneville' />
+    <tag k='man_made' v='communications_transponder' />
+    <tag k='name' v='WB4NKM' />
+    <tag k='ref' v='WB4NKM' />
+    <tag k='source' v='http://www.poi-factory.com/node/2227' />
+  </node>
+</osm>
